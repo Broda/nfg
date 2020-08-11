@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "First Post! ...again"
-date:   2020-08-10 16:56:00
+date:   2020-08-10 16:56:00 0000
 author: David Green
 categories: site update
 ---
