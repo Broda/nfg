@@ -1,2 +1,12 @@
-theme: jekyll-theme-hacker
 title: Nightfall Games
+email: admin@nightfallgames.net
+description: Indie Game Development and Programming
+baseurl: "/"
+url: "http://site.nightfallgames.net"
+twitter_username: brodaqd
+github_username: broda
+
+theme: jekyll-theme-hacker
+host: 0.0.0.0
+plugins:
+  - jekyll-feed
